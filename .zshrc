@@ -8,4 +8,4 @@ done
 export GOPATH=$HOME/go
 export GOROOT="$(brew --prefix golang)/libexec"
 export PATH="$PATH:${GOPATH}/bin:${GOROOT}/bin"
-export PATH="$PATH:/Users/arvinvitug/code/toolkit"
+export PATH="$PATH:$HOME/code/toolkit"
