@@ -1,0 +1,7 @@
+function hdr() {
+    B=$1
+    E=$2
+    for line in $(seq ${B} ${E}); do
+        history -d {B}
+    done
+}
