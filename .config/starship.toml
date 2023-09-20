@@ -20,7 +20,7 @@ style = "bold-blue"
 style = "bold-blue"
 
 [directory]
-style = "blue"
+style = "bold blue"
 
 [cmd_duration]
 style = "bold yellow"
