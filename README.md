@@ -1,6 +1,6 @@
 # config
 
-brew list --cask > casks
+brew list --cask > casks <br>
 brew leaves > leaves
 
 
