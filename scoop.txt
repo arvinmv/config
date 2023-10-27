@@ -8,5 +8,5 @@ rke
 spotify
 vagrant
 vscode
-
+neovim
 
