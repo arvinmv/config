@@ -1,0 +1,12 @@
+Installed
+
+Name
+----
+7zip
+kubectl
+rke
+spotify
+vagrant
+vscode
+
+
